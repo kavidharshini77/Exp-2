@@ -13,10 +13,15 @@ Communication Diagram
 Sequence Diagram
 
 1 . Students and staff enter the system to search, borrow, return, or renew books.
+
 2 . New users can be added as members by the librarian.
+
 3 . The librarian records all actions, checks reports, and manages book details.
+
 4 . If books are unavailable, the librarian requests them from suppliers.
+
 5 . Suppliers provide new books, and stocks are updated in the system.
+
 6 . Finally, the librarian reports to the admin, who manages users, issues fines, and generates reports.
 
 # DIAGRAMS:
